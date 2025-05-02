@@ -7145,3 +7145,7 @@ Jared: Is there anyone looking for the developer now?
 Roman: How do I add comment to forwardPayload in NFTTransfer? In tact  message(0x5fcc3d14) NFTTransfer {     queryId: Int as uint64;     newOwner: Address; // Address of the new owner of the NFT item.     responseDestination: Address; // Address to send a response confirming a successful transfer and the remaining incoming message coins.     customPayload: Cell? = null; // Optional custom data. In most cases, this should be null.     forwardAmount: Int as coins; // The amount of nanotons to be sent to the new owner.     forwardPayload: Slice as remaining; // Optional custom data that should be sent to the new owner. }
 
 V: Hey looking to start develop on Ton, some articles on the topics for beginners ?
+
+Андрей: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/ (reply to 61507)
+
+V: Thanks 🙏🏽
