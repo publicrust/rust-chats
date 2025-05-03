@@ -11729,3 +11729,9 @@ Nick: Hello,  Nice to meet you! Admin, can I share my project here? 😊  It a t
 Ник: Hi guys. I use the toncenter api to get the latest transactions. Please tell me how can I determine the currency in which the transaction took place?
 
 Ник: Forget it. I'll use methods for getting actions from API v3. (reply to 147683)
+
+Sam: hola ! how do you compile FunC code for production ? (omitting all debugging instructions like STRDUMP) I'am using blueprint
+
+— 2025-05-03 —
+
+Khashayar: Hey   Can a bot ( Mini apps ) on telegram knows what Gifts the person logged in into mini app or game whatever have in their profile ( if not hidden)   Or its not possible by telegram to know them  I know each gift or NFT owner is publicly available   More like  Is there API for it?

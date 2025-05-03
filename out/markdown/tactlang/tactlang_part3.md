@@ -7149,3 +7149,21 @@ V: Hey looking to start develop on Ton, some articles on the topics for beginner
 Андрей: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/ (reply to 61507)
 
 V: Thanks 🙏🏽
+
+Шу: Hello everyone! Please help me figure this out. When I compile file main.tact I keep getting the same error: Error: main.tact:3:13: Expected ":" 2 | // Variable for storing NFT description > 3 | storage last_description: cell;  Tact version 1.6.7 I checked it on two different computers with Ubuntu and MacOS. I've already rewritten it dozens of times in different ways, nothing helps(((  contract Fanta {     // Variable for storing the last NFT description     storage last_description: cell;      init() {         self.last_description = empty_cell(); // Пустое значение при инициализации     }      // mint NFT — just save description     receive("mint") {         let description = slice::load_ref();         self.last_description = description.as_cell();         send_raw_message(sender(), 0, "Mint successful");     }      // Get last description     get fun get_last_description(): cell {         return self.last_description;     } } This Expected ":" it constantly appears... Thanks advance! 🙏
+
+Dmitry: Just remove ‘’’storage’’’ (reply to 61521)
+
+Dmitry: Your code looks very awkward tbh
+
+Dmitry: Some weird mix of Tact and FunC
+
+Шу: I am an amateur) thanks for your advice I will try it
+
+Dmitry: I will not expect that this code will compile
+
+Dmitry: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/
+
+Dmitry: Maybe you want to start here
+
+David: Hi, I want to ask, does anyone know where I can get a smart contract for a reward token? (The one where the commission from purchases/sales is divided between holders.)

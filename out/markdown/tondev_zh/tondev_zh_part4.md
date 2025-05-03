@@ -8167,3 +8167,9 @@ Combot: shishani1 has been banned! Reason: CAS ban.
 Combot: 『🔪𝕯𝖆𝖗𝖎𝖘𝖍𝖐𝖆𝖗𝖚𝖚🔪] has been banned! Reason: CAS ban.
 
 Combot: в🩷⌯ has been banned! Reason: CAS ban.
+
+— 2025-05-03 —
+
+Combot: Hoàng Vũ has been banned! Reason: CAS ban.
+
+Combot: Ali Mohamed has been banned! Reason: CAS ban.
