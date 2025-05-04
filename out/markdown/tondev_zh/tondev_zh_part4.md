@@ -8173,3 +8173,25 @@ Combot: в🩷⌯ has been banned! Reason: CAS ban.
 Combot: Hoàng Vũ has been banned! Reason: CAS ban.
 
 Combot: Ali Mohamed has been banned! Reason: CAS ban.
+
+Traffic Builder: 1请问做到TMA上有什么好用的生物识别api吗？
+
+Traffic Builder: 1我希望给每一个用户生成一个唯一的生物识别码
+
+Combot: Luong TA has been banned! Reason: CAS ban.
+
+Combot: Марина has been banned! Reason: CAS ban.
+
+寒雁0: 没事做？来！30天让你存款多6位数，奔驰直接满足，看煮叶🦾🦾🦾
+
+Combot: Al mamum ArmanCopy🍅 has been banned! Reason: CAS ban.
+
+Adeniyi.sui: 您好，我想做一個結合音色和隋的機器人，誰有很多經驗，我們可以一起工作。
+
+Combot: CASBETO has been banned! Reason: CAS ban.
+
+Combot: Chandima Dissanayake, Omkar N have been banned! Reason: CAS ban.
+
+— 2025-05-04 —
+
+Combot: 设置名字 设置姓氏 has been banned! Reason: CAS ban.

@@ -11735,3 +11735,13 @@ Sam: hola ! how do you compile FunC code for production ? (omitting all debuggin
 — 2025-05-03 —
 
 Khashayar: Hey   Can a bot ( Mini apps ) on telegram knows what Gifts the person logged in into mini app or game whatever have in their profile ( if not hidden)   Or its not possible by telegram to know them  I know each gift or NFT owner is publicly available   More like  Is there API for it?
+
+&rey: Normally, debugging functions do not live in contract's source till production; however, you can also replace a few lines of stdlib.fc to make the dump functions just drop their arguments (+ remove impure specifier so that their arguments are not calculated at all). (reply to 147690)
+
+Игорь: does anyone have @ton/ton documentation or an example of jetton sending?
+
+TON Bounty Bridge: ​ParityHash — verifiable RNG via TON_hash mod N  🏷 Developer Tool  Summary:ParityHash is an ultra‑light RNG that turns the current TON block hash into a verifiable random numb...  Created by Multipiston
+
+Morpheus || $SHIVA: anyone understands why this isn't working anymore, I get a 404 error - https://eco.ton.org/en/opportunities/make-sbt-campaign
+
+Morpheus || $SHIVA: you can't create an SBT campaign and the GitHub readme was talking about contacting them or something

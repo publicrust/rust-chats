@@ -7167,3 +7167,9 @@ Dmitry: https://docs.tact-lang.org/book/learn-tact-in-y-minutes/
 Dmitry: Maybe you want to start here
 
 David: Hi, I want to ask, does anyone know where I can get a smart contract for a reward token? (The one where the commission from purchases/sales is divided between holders.)
+
+— 2025-05-03 —
+
+Roman: How to check this for Anonymous Telegram Numbers? (reply to 58940)
+
+Lols Anti Spam: Guwayn Ally, you were blocked (CAS)
