@@ -7173,3 +7173,11 @@ David: Hi, I want to ask, does anyone know where I can get a smart contract for 
 Roman: How to check this for Anonymous Telegram Numbers? (reply to 58940)
 
 Lols Anti Spam: Guwayn Ally, you were blocked (CAS)
+
+— 2025-05-04 —
+
+Georgiy: 🔧 Announcing: OCaml library for FunC parsing: nowarp/ocaml-func  For developers working with FunC, this library provides AST and parser functionality. (forwarded from nowarp | TON Security)
+
+— 2025-05-05 —
+
+Randolph: I have a smart contract written in Tact. Which SDK is most suitable for initiating interactions from the frontend?

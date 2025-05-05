@@ -8195,3 +8195,23 @@ Combot: Chandima Dissanayake, Omkar N have been banned! Reason: CAS ban.
 — 2025-05-04 —
 
 Combot: 设置名字 设置姓氏 has been banned! Reason: CAS ban.
+
+Combot: CASBETO has been banned! Reason: CAS ban.
+
+Combot: Kirya_song has been banned! Reason: CAS ban.
+
+Combot: Moh Aned, Amal malewa have been banned! Reason: CAS ban.
+
+Combot: reff has been banned! Reason: CAS ban.
+
+Combot: Monty Tanaka has been banned! Reason: CAS ban.
+
+Combot: N has been banned! Reason: CAS ban.
+
+— 2025-05-05 —
+
+Randolph: 原来tact
+
+Randolph: 这么好用，之前学func白搞了几个月。。
+
+Combot: BETOCAS MANAGER, BETOCAS MANAGER have been banned! Reason: CAS ban.

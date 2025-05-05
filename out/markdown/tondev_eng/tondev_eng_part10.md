@@ -11745,3 +11745,31 @@ TON Bounty Bridge: ​ParityHash — verifiable RNG via TON_hash mod N  🏷
 Morpheus || $SHIVA: anyone understands why this isn't working anymore, I get a 404 error - https://eco.ton.org/en/opportunities/make-sbt-campaign
 
 Morpheus || $SHIVA: you can't create an SBT campaign and the GitHub readme was talking about contacting them or something
+
+— 2025-05-04 —
+
+wy: hi how can i make a pull request. i would like to verify my token
+
+🔳 ivan: hi! is there a recipe to simulate contract execution with internal message and get its new state?
+
+Combot: Combot has warned Georgiy Komarov (1/3) Reason: Word **** is not allowed
+
+Артур: Hello everyone! Does anyone know if there’s a way to verify on-chain that an NFT belongs to a certain collection? I mean, I can’t call get_collection_data on-chain because it’s a get-method. And I can’t rely on get_static_data / report_static_data, because these messages can be faked.
+
+TON Bounty Bridge: ​Trouble  Created by 4ak7P
+
+Mojisola🍅 🍅: can't you call directly the contract address of the nft? (reply to 147799)
+
+Артур: Yes, I can call the get_static_data method of the NFT item contract and get a response with information about the collection. But that information can be faked. Someone could create a fake NFT item contract that claims the NFT belongs to a collection it doesn’t actually belong to. (reply to 147801)
+
+Артур: It would be great if the NFT collection contract had a method that could confirm whether a given NFT actually belongs to that collection. Unfortunately, TEP-62 doesn’t provide for such a method. (reply to 147802)
+
+&rey: You can "import" collection address, data and code into your contract — more precisely, place these cells in whatever way you see fit. Then, call https://github.com/ProgramCrafter/tvm-quirks/blob/master/ok-nft-addr-onchain.fc. (reply to 147799)
+
+Артур: Yes, but my goal is to make my contract compatible with any contract that implements the NFT standard. So unfortunately, hardcoding the collection’s data and code isn’t a viable option for me. (reply to 147804)
+
+&rey: Those could be set on contract deployment, for most applications I can imagine. (reply to 147805)
+
+Артур: I hadn’t considered that approach 🤔 I’ll give it a try—thank you! (reply to 147806)
+
+Mojisola🍅 🍅: what's the scope though, is it going to be your own created nfts or nfts from other people?  if from others, not sure you can run away from fakes except you manually check originals
