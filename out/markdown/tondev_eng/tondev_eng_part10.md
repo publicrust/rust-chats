@@ -11773,3 +11773,27 @@ Mojisola🍅 🍅: can't you call directly the contract address of the nft? (rep
 Артур: I hadn’t considered that approach 🤔 I’ll give it a try—thank you! (reply to 147806)
 
 Mojisola🍅 🍅: what's the scope though, is it going to be your own created nfts or nfts from other people?  if from others, not sure you can run away from fakes except you manually check originals
+
+— 2025-05-05 —
+
+TON Bounty Bridge: 📊 Update Digest!  🔍 Active bounties: 19 ✅ Approved bounties: 0 🔄 Bounties seeking suggestions: 61  📣 We value your feedback! Join the community discussion and participate in shaping the future. Click the 'Create Your Own Bounty' button to get started.  Happy contributing!
+
+@CryptoCops: Hello. May I please know the different organizations to reach out to for project funding?
+
+Michaelzy: does anyone have the correct format of how to store jetton content metadata on chain? (and off chain) currently i am doing this in my init: self.content = TempMetadata {             name: "Michaelzy",             description: "Michaelzy Tunez",             symbol: "MZT",             decimals: 0,             image_data: "jfhvbgfdfweuihfiwsfdsjbfdsfb",         }.toCell();  where TempMetadata is a custom struct with 5 fields fro the metadat as defined by TEP-64
+
+Michaelzy: my jetton is showing name as unkown in tonviewer and tonscan
+
+&rey: It wouldn't work; TEP-62 wants another data serialization compared to the .toCell() call. (reply to 147836)
+
+Chace: I'm getting cell Underflow error code 9, but unable to find out what's missing, tried to use retracer but that unable to understand that too, can anyone guide or enlighten me
+
+Willy: If you're developing contacts yourself - try debugging with "dump()" or smth else to see which line creates an error. (reply to 147854)
+
+Андрей: Good evening. I have the TMA app and I want to exclude several wallets from the list that TonСonneсtUI offers.  <TonConnectUIProvider                 walletsListConfiguration={{                   includeWallets                 }}               >  I pass here a list of wallets that I would like to see in the modal window. But this list does not change
+
+— 2025-05-06 —
+
+Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
+
+Daivd: You mean, withdraw? (reply to 147867)

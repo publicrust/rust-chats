@@ -8215,3 +8215,21 @@ Randolph: 原来tact
 Randolph: 这么好用，之前学func白搞了几个月。。
 
 Combot: BETOCAS MANAGER, BETOCAS MANAGER have been banned! Reason: CAS ban.
+
+Howard: haha..... 也不一定啦 (reply to 87979)
+
+Randolph: 官方这个ide太好用了。调试方便，节省很多时间，之前用webstorm的还要自己测试代码调试
+
+Randolph: 没有早点发现😭
+
+Alex: 问个ton支付的问题，tonsdk如何判断支付成功或支付失败的？ 好像没有支付成功以及失败的回调事件这种东西。
+
+— 2025-05-06 —
+
+Andrew: 因为区块链不会依赖业务系统，所以区块链不会回调你的业务系统，正常是你主动查询。  但是也有一些 API 服务商，提供 Webhook 这样轻量级的回调增值服务。 比如 tonxapi 和 tonconsole (reply to 88017)
+
+Sun: 这个退出code文档链接有谁知道吗？
+
+Andrew: https://docs.ton.org/v3/documentation/tvm/tvm-exit-codes (reply to 88110)
+
+Combot: S has been banned! Reason: CAS ban.

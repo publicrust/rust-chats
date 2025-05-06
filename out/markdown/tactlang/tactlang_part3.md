@@ -7181,3 +7181,13 @@ Georgiy: 🔧 Announcing: OCaml library for FunC parsing: nowarp/ocaml-func  For
 — 2025-05-05 —
 
 Randolph: I have a smart contract written in Tact. Which SDK is most suitable for initiating interactions from the frontend?
+
+maksim: I guess there is only one option now - using Ton Connect as wallet provider and Tact generated wrappers within it to create messages for send (reply to 61743)
+
+Yet Another Anti-Spam Bot: Bot decided that this is a spamer. Is it correct? Vote (1/3)
+
+— 2025-05-06 —
+
+Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
+
+Daniil: Use highload wallet on backend (reply to 61849)
