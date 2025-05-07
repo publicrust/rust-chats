@@ -7191,3 +7191,9 @@ Yet Another Anti-Spam Bot: Bot decided that this is a spamer. Is it correct? Vot
 Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
 
 Daniil: Use highload wallet on backend (reply to 61849)
+
+Akan: Hi guys, I need some help sending a message to a contract from a react app, the user connects their wallet and then triggers the transaction that then sends the message as the payload of the transaction, I have figured everything except the creation of the payload, its a lot of cell manupulation I see online, which is a bit confusing, is there some article I can use to figure it out?  Thanks a bunch!
+
+абцд: Please check out this page for TON Connect payload examples  https://docs.ton.org/v3/guidelines/ton-connect/guidelines/preparing-messages (reply to 61912)
+
+Akan: Thank you!, I have figured it out (reply to 61925)

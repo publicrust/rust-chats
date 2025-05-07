@@ -8233,3 +8233,27 @@ Sun: 这个退出code文档链接有谁知道吗？
 Andrew: https://docs.ton.org/v3/documentation/tvm/tvm-exit-codes (reply to 88110)
 
 Combot: S has been banned! Reason: CAS ban.
+
+Combot: Zine Ddine has been banned! Reason: CAS ban.
+
+Andrew: 具体费用和 token 的合约相关，然后 gas price 是配置在下面文档 https://docs.ton.org/v3/documentation/network/configs/blockchain-configs (reply to 88115)
+
+Sun: ok
+
+Combot: Azma Maaaaaaaaa has been banned! Reason: CAS ban.
+
+Combot: Antonio Jasso Moreno has been banned! Reason: CAS ban.
+
+Combot: S has been banned! Reason: CAS ban.
+
+Combot: Quami, putri have been banned! Reason: CAS ban.
+
+Combot: ❤️ CH!:LD P+RN Tas841B🅾️t 😱 CH!:LD P+RN Tas841B🅾️t ❤️ 😱 CH!:LD P+RN Tas841B🅾️t ❤️ CH!:LD P+RN Tas841B🅾️t 😱 has been banned! Reason: CAS ban.
+
+Smart: hi we have built bot like tiktok on telegram but issue is capture photo and video quality is very low compared to tiktok or other native apps how we can improve it along adding filters hdr10 need guidance from experienced developers
+
+— 2025-05-07 —
+
+Combot: tungcd1102 tungcd1102, Matsuro 🪿 have been banned! Reason: CAS ban.
+
+Combot: S has been banned! Reason: CAS ban.

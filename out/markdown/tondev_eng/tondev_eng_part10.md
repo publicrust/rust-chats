@@ -11797,3 +11797,61 @@ Willy: If you're developing contacts yourself - try debugging with "dump()" or s
 Abrham: Hi, I've developed a web app similar to Polymarket where users can deposit Toncoin and interact with the platform. When a user wants to withdraw their balance, the process should be automatic.  I understand how to handle deposits using TON Connect, but my question is: How can I automate withdrawals without requiring my manual intervention?
 
 Daivd: You mean, withdraw? (reply to 147867)
+
+Daivd: https://docs.ton.org/v3/guidelines/dapps/asset-processing/payments-processing/#toncoin-withdrawals-send-toncoins (reply to 147870)
+
+Kenny: Hi guys. I want to develop a Telegram Bot (not mini app) that allows users to send TON to a specific address. I find this doc and this GitHub repo . Those are very helpful, but why does the doc say it's outdated? I've run the demo project, and it's exactly what I want.
+
+steven: Interested (reply to 147873)
+
+FREEZZZZ: hello, why in ton center, the output like this: {   "ok": false,   "result": "Network not allowed",   "code": 403 }
+
+Chace: I dont own the contract (reply to 147858)
+
+Alex: Because a bot's UX/UI contains many issues, developers who start using bots can't resolve them.   All these issues are solved in TMAs with TON Connect protocol.   So, if you plan to build any TON-based service with a nice UX/UI, it is suggested that you make it with TMA. (reply to 147873)
+
+Kenny: Thanks Alex. Could you please specify what issues does bot have? I'm thinking that the text based UI is actually very good.  Besides, the doc also says TMA is more secure. I can't understand in which way TMA is more secure.  Thanks in advance 🙏 (reply to 147879)
+
+Андрей: Could you guys help me? (reply to 147861)
+
+Mojisola🍅 🍅: the Tact Smart Battle Contest rewards have been distributed hours ago.  any participant here..
+
+Jacob: hello,   1. issue description.     err  {"message":"Request failed with status code 500","code":"ERR_BAD_RESPONSE","name":"AxiosError","status":500,"response.config.data":"{\"id\":\"1\",\"jsonrpc\":\"2.0\",\"method\":\"getTransactions\",\"params\":{\"address\":\"EQDlYDH0PmST2okwTluXJ2mUDMDCzPzXF1gGz24U6H2tE24h\",\"limit\":91,\"archival\":true,\"to_lt\":\"0\",\"lt\":\"34281132000001\",\"hash\":\"f72e8179fb68469156ccf7f0d78b794e331f9e999bcb8050bfffc65ee09f258d\"}}","response.data.error":{"ok":false,"error":"LITE_SERVER_UNKNOWN: cannot compute block with specified transaction: cannot find block (0,e56031f43e6493da) lt=34075122000001: lt not in db","code":500}}   1) for testnet , above is the issue.   2) for mainnet , there is no such issue.   3)   testnet url: https://testnet.toncenter.com/api/v2/jsonRPC  mainnet url: https://toncenter.com/api/v2/jsonRPC    2. is there stable rpc url for testnet when we call getTransactions?
+
+leo: i'm having the exact same issue here. the mainnent it's working well but the tesetnet getTransactions is failing (reply to 147893)
+
+Андрей: Please help me I have the TMA app and I want to exclude several wallets from the list that TonСonneсtUI offers.                  walletsListConfiguration={{                   includeWallets                 }}               > I pass here a list of wallets that I would like to see in the modal window. But this list does not change
+
+&rey: Are the wallets you want to exclude buggy? (reply to 147902)
+
+Андрей: bitget (reply to 147903)
+
+Artur: Hi! I used the built-in swap in Trust Wallet to exchange 18 TON for SOL on May 5th. The transaction failed and was marked “Suspicious” in TON Explorer. Funds were sent to contract  0:aa4ee3d2f9c30df5249185a16bc093862fb74a90517c0b46b4e60d96cc8f6e44 and never returned.  Does anyone recognize this contract? Is it part of a legit DEX or bridge? Any hope to recover funds?
+
+Mojisola🍅 🍅: why do this? (reply to 147910)
+
+Combot: Combot has warned LodStorn (1/3) Reason: Word **** is not allowed
+
+LodStorn: I need help to build AMM working on TON. dm if you have FunC experience
+
+TON Bounty Bridge: ​Toolbox for creating .ton subdomains  🏷 Developer Tool  Summary:A toolbox for TON developers and users to create and manage .ton subdomains. It includes smart contr...  Rewards: • TBD USD in TON • SBT Bounty Reward  Created by nessshon
+
+Albert: Ping me (reply to 147919)
+
+— 2025-05-07 —
+
+Desconocido: Help me Could someone tell me if I have just been robbed, because they made a payment to me with this currency and at first everything was fine and then Telegram marked it as spam
+
+Mojisola🍅 🍅: you should verify. that should be easy (reply to 147944)
+
+Jolly: Hi everyone, we are preparing to launch our app on the Telegram Mini App Store and begin operations. Initially, we plan to use Telegram’s native advertising system for promotion, but we’re currently unsure how to track the performance of these ads. Does anyone have any recommendations?
+
+Daivd: You can use your mini app (reply to 147947)
+
+Jolly: how to trace the ad performance by my mini app? Is there any API or SDK to plug in? (reply to 147948)
+
+Daivd: No, implement that function. (reply to 147949)
+
+Jolly: Sorry, I didn't get it, what function? (reply to 147951)
+
+Daivd: You can make the section to track in your mini app. (reply to 147952)
