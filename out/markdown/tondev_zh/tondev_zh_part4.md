@@ -8257,3 +8257,51 @@ Smart: hi we have built bot like tiktok on telegram but issue is capture photo a
 Combot: tungcd1102 tungcd1102, Matsuro 🪿 have been banned! Reason: CAS ban.
 
 Combot: S has been banned! Reason: CAS ban.
+
+Qwanntum: 😮‍💨🤙
+
+Katiya｜TON: 💎《TON 生态开发公开课 & 编程挑戰赛 2025》 🚀第4課下周一開課！  📅 課程時間：5 月 12 日 20:00 (UTC+8) 🎙️直播平台：請關注 X 帳號 @ tonsocietyhk  🏆 課程結束後還有 Coding Challenge編程挑戰賽，所有提交的开发者将会贏取一整年 Telegram Premium 會員！  💡 課程內容： 📌 TON 基础 & 智能合约 – 消息模式、API & SDK、Bag of Cell 📌 Jetton & NFT – 真实 USDT 案例，全流程应用集成  ✨感謝社區夥伴： BeWaterOfficial,HackQuest_,OpenBuildxyz (forwarded from TON Society Hong Kong Announcements)
+
+Katiya｜TON: 第四课来咯！下周一开课
+
+Katiya｜TON: 大家记得来参与～～
+
+Randolph: 这节课很核心呀，期待😊
+
+Combot: S has been banned! Reason: CAS ban.
+
+Jacob: 有没有好用的http RPC server， 主网测试网都能稳定的工作？
+
+Andrew: https://tonapi.io/  https://tonxapi.com/
+
+atsolutionyoung: 为什么我拿不到mainfest
+
+atsolutionyoung: 我用ton-connect的demo-react是可以的
+
+atsolutionyoung: 但喔代码力， 用tonConnectUI.openModal(); 之后返回wallet就找不到manifest
+
+Smart: hi we have built bot like tiktok on telegram but issue is capture photo and video quality is very low compared to tiktok or other native apps how we can improve it along adding filters hdr10 need guidance from experienced developers
+
+Andrew: 没遇到过这个错误，你再参考 demo 仔细检查下配置 (reply to 88279)
+
+Andrew: u can ask in @devs for bot/mini app issues (reply to 88281)
+
+Combot: Milana 🙃, Anna Shetty have been banned! Reason: CAS ban.
+
+Combot: Evgeny has been banned! Reason: CAS ban.
+
+Combot: Миша Крипальский has been banned! Reason: CAS ban.
+
+Combot: Princi Rolland has been banned! Reason: CAS ban.
+
+— 2025-05-08 —
+
+Combot: Mahdi, Sutt have been banned! Reason: CAS ban.
+
+Gr: 各位大佬，请教一下在领取usdt测试币时，这个链接怎么打开？
+
+Combot: الخديوي, 小 蛋壳, Nisal Vimukthi, Ali Abd Elfattah have been banned! Reason: CAS ban.
+
+Andrew: 用钱包切换到测试网去扫描这个二维码，比如Tonkeeper 创建一个测试网钱包 (reply to 88351)
+
+Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。

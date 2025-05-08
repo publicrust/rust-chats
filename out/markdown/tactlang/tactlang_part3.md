@@ -7197,3 +7197,31 @@ Akan: Hi guys, I need some help sending a message to a contract from a react app
 абцд: Please check out this page for TON Connect payload examples  https://docs.ton.org/v3/guidelines/ton-connect/guidelines/preparing-messages (reply to 61912)
 
 Akan: Thank you!, I have figured it out (reply to 61925)
+
+— 2025-05-07 —
+
+Ivan: Hi! I have a receive method where the message contains a referrer address (other than the sender). Since the message may be sent from an alternative client, I need to validate this address in my receive method to ensure it's valid and I can send messages to it. Could you provide an example or just point me in the right direction? I need something like this:  receive(msg: MyMessage) {     let isValid = isAddressValid(msg.referrerAddress); //???     if(isValid) {         someAction();     } }
+
+Slava: I'm afraid you will have to define what the "valid" is, in your terms. (reply to 61995)
+
+Ivan: - Is properly formatted according to the blockchain's address structure (this would probably throw an error earlier, when the client tries to send the message) - Exists on the same chain as my contract (reply to 61998)
+
+Slava: I believe the Tact will handle address deserialization for you and will halt if the address format is invalid.
+
+maksim: True, if it's defined in MyMessage message definition as Address field than Tact will handle it (reply to 62000)
+
+Slava: Regarding the workchain, check the methods starting from here.
+
+Anton: For you all, JetBrains IDEs lovers: intelli-tact plugin release 📸  🍲 got IDEA? ♨️ @tact_kitchen from the @ton_studio (forwarded from TON Dev News)
+
+Brave: offtopic but  Please make a FunC lsp plugin for neovim (or just vim)  Add FunC to the nvim-lspconfig pleeeeaseee 🥺 (reply to 62005)
+
+Anton: you should probably ask the team behind FunC to do it :) (reply to 62007)
+
+Brave: 💯  But only the TacT team is actually doing shit...  So i hardly think about moving from FunC -> to Tact... 🤔 (reply to 62009)
+
+Anton: you should be, you can already be more gas efficient since Tact 1.6.0 (if you follow the guidelines here: https://docs.tact-lang.org/book/gas-best-practices/)  and we are working on a new backend to completely cut off FunC and Fift from the compilation pipeline (reply to 62010)
+
+Brave: soon, i will seriously look forward into doing that. 🤝  We'll see)) (reply to 62011)
+
+Slava: 👏🏻 😅 (reply to 62010)

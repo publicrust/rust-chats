@@ -11855,3 +11855,33 @@ Daivd: No, implement that function. (reply to 147949)
 Jolly: Sorry, I didn't get it, what function? (reply to 147951)
 
 Daivd: You can make the section to track in your mini app. (reply to 147952)
+
+&rey: Totally off topic for the chat. (reply to 147947)
+
+Andy: If a message is sent to a contract in the same shard, can it get processed in the same block?
+
+Mojisola🍅 🍅: why do you need this details?
+
+Max: generally it will be, yeah (reply to 147965)
+
+Andy: just thinking how much I can reduce confirmation time by sharding contracts (reply to 147967)
+
+Andy: that's great news. what decides whether it will though? (reply to 147968)
+
+Max: it's somewhere in sources of blockchain, won't be able to tell you rn where exactly. i'm pretty sure it's like 90% of the time that the same shard tx will be processed in same block, but i'm not sure what happens if, for example, you try to recursively call, for example, yourself a million times: it would make sense that these messages won't all be in the same block, but i'm not that sure (reply to 147970)
+
+Andy: that makes sense. thank you!
+
+&rey: Validator, based on block limits. There is also some lower or upper bound (I don't remember) on ratio of external to internal messages processed. (reply to 147970)
+
+Ad: Gm. how can i disassemble a contract code found on the chain? disassemble to fift fx
+
+&rey: Approximately like https://github.com/ProgramCrafter/wallet-contract/blob/c4e9271abae8abe554a82e7d34f8c87b073acd8e/build.ts#L3-L10. (reply to 147978)
+
+Terminator: hey is there any tutorial or docs available with examples how to build on ton?
+
+Ad: yes. maybe tvm-disassembler s what i need thanks! (reply to 147992)
+
+Boris: Hello, a question from a newbie, I have debug enabled in the compilation of a file and I use the dump function to output an error via try...catch, how can I view the error itself, do I need to view it somehow via tonviewer testnet?
+
+ABCD: You need to write and run tests to make the error visible. Dump is used to output variable values to the terminal when running the program, but the error itself will be displayed without it as a result of the test execution with debugging enabled. Additionally, you can use more detailed debugging with verbosity, which is also specified in the tests as follows:  await blockchain.setVerbosityForAddress(orderNft.address, {     vmLogs: 'vm_logs_full',     print: true,     blockchainLogs: false,     debugLogs: false })  However, there are also options for "live" testing... You can conduct a transaction through the blockchain on either the mainnet or testnet and check the result of its execution via an explorer that supports debug display, but currently, it is less clear than in a test environment. (reply to 148000)
