@@ -11885,3 +11885,19 @@ Ad: yes. maybe tvm-disassembler s what i need thanks! (reply to 147992)
 Boris: Hello, a question from a newbie, I have debug enabled in the compilation of a file and I use the dump function to output an error via try...catch, how can I view the error itself, do I need to view it somehow via tonviewer testnet?
 
 ABCD: You need to write and run tests to make the error visible. Dump is used to output variable values to the terminal when running the program, but the error itself will be displayed without it as a result of the test execution with debugging enabled. Additionally, you can use more detailed debugging with verbosity, which is also specified in the tests as follows:  await blockchain.setVerbosityForAddress(orderNft.address, {     vmLogs: 'vm_logs_full',     print: true,     blockchainLogs: false,     debugLogs: false })  However, there are also options for "live" testing... You can conduct a transaction through the blockchain on either the mainnet or testnet and check the result of its execution via an explorer that supports debug display, but currently, it is less clear than in a test environment. (reply to 148000)
+
+— 2025-05-08 —
+
+Jolly: Hello everyone, I'm currently encountering an issue with the withdrawal process from our product to users. When I try to withdraw 5 USDT to a user's wallet via a contract from a certain app, TON first deducts a fee of 0.25 TON. My app also wants to implement such an order, but I haven't been able to achieve it. I don't understand where this 0.25 TON fee is specified in the code.  Could anyone help?
+
+Desconocido: Could you help me please? (reply to 147946)
+
+Russia: Everyone, can you tell me if Nextjs 15 can use tonConnectUI?
+
+&rey: Please note you are not interacting with TON in any way; Telegram is a distinct entity not controlled by the chain. (reply to 148016)
+
+Jolly: I thought this is an interaction with TON, okay, thx (reply to 148024)
+
+&rey: Anyone can create their own jetton with pretty much any display info and behavior. You should open tonviewer's main page, find true USDC and then enter your address to check if you have any. (reply to 147944)
+
+Russia: I want to connect ton wallet and pay on ton wallet on my website made with nextjs 15. I copied from my reactjs source and it runs normally but through nextjs it doesn't show popup to connect wallet and also shows error code. @pcrafter
