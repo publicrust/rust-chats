@@ -8309,3 +8309,31 @@ Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的�
 Combot: 总督, JT_Nashville🔥🥵🥶👑, Демид Майоров have been banned! Reason: CAS ban.
 
 Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。
+
+wikig: 整了个bridge aggrator，但是中间的比价调度和部分流动性是centralized的，适合dev小钱买gas
+
+wikig: 不知道这玩意儿TMA化算不算TON project
+
+wikig: 底层流动性走的fixedfloat。还在测bug笑死  http://t.me/FrogBridge_Bot/app (reply to 88391)
+
+Katiya｜TON: 🚀 TON Builders Day | 5.24 1PM-6PM  🔥 開發者必來！與 TON 基金會、頂級項目面對面，探索 2025 生態機會！ 💡 學習 TON 開發技巧、Telegram 增長秘笈，贏取孵化營直通車＋獎金！ 🏆 路演項目將獲官方孵化營計劃 TON Nest 直通車＋SafePal 獎勵＋SafePal 硬體錢包！  🔗 報名链接：http://lu.ma/kbz4esy7  🎤 重磅嘉賓 & 議程 13:20–13:40 ｜ TON 2025 生態賽道解析 – John(TON基金會亞太負責人） 13:40–14:00 ｜ TON 鏈上開發技巧 – Andrew (TON東亞 Hub 開發者關係經理） 14:00–14:20 ｜ 如何在 Telegram 做增長 – George (TON增長實驗室創始人） 14:20–14:40 ｜ TON 生態的「共生型」項目 – Helen（InnoAlpha 基金聯合創始人） 15:10–17:00 ｜ 項目路演（觀眾投票前三名將獲 SafePal 獎勵！） 17:00–18:00 ｜ 自由交流 & 資源對接  ✨感謝合作夥伴：SafePal, AWS, 鏈捕手, MetaEra, OpenBuild (forwarded from TON Society Hong Kong Announcements)
+
+Katiya｜TON: 开发者专门的活动，欢迎大家来参加我们的线下活动！
+
+Katiya｜TON: 了解TON最新的趋势和方向，开发、增长！
+
+Randolph: 已报名，居然来深圳了😊
+
+Katiya｜TON: 这回可以线下听Andrew老师讲课了😂 (reply to 88401)
+
+Randolph: 想想就令人激动😄 (reply to 88403)
+
+Leo: 怎么才讲20分钟，不够听😏 (reply to 88403)
+
+Andrew: 🚀 TON Builders Day | 5.24 1PM-6PM  🔥 開發者必來！與 TON 基金會、頂級項目面對面，探索 2025 生態機會！ 💡 學習 TON 開發技巧、Telegram 增長秘笈，贏取孵化營直通車＋獎金！ 🏆 路演項目將獲官方孵化營計劃 TON Nest 直通車＋SafePal 獎勵＋SafePal 硬體錢包！  🔗 報名链接：http://lu.ma/kbz4esy7  🎤 重磅嘉賓 & 議程 13:20–13:40 ｜ TON 2025 生態賽道解析 – John(TON基金會亞太負責人） 13:40–14:00 ｜ TON 鏈上開發技巧 – Andrew (TON東亞 Hub 開發者關係經理） 14:00–14:20 ｜ 如何在 Telegram 做增長 – George (TON增長實驗室創始人） 14:20–14:40 ｜ TON 生態的「共生型」項目 – Helen（InnoAlpha 基金聯合創始人） 15:10–17:00 ｜ 項目路演（觀眾投票前三名將獲 SafePal 獎勵！） 17:00–18:00 ｜ 自由交流 & 資源對接  ✨感謝合作夥伴：SafePal, AWS, 鏈捕手, MetaEra, OpenBuild (forwarded from TON Society Hong Kong Announcements)
+
+Rose: TON Dev Chat (中文) 歡迎你的到來，請多加利用下方按鈕的資訊，並遵守群組規則。
+
+— 2025-05-09 —
+
+Combot: Lakin Lon has been banned! Reason: CAS ban.

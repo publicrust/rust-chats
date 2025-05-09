@@ -7225,3 +7225,11 @@ Anton: you should be, you can already be more gas efficient since Tact 1.6.0 (if
 Brave: soon, i will seriously look forward into doing that. 🤝  We'll see)) (reply to 62011)
 
 Slava: 👏🏻 😅 (reply to 62010)
+
+— 2025-05-08 —
+
+🔳 ivan: Hi! I created a contract that emits event. Now i want to build a listener for such a contract. can you please guide me on off-chain part of this solution? how to get emitted events and parse the event data given event "abi"?
+
+Adam: Yeah sure thing what if you can explain what you want the listener to do I can help (reply to 62071)
+
+Lê: can you help me?  async getCounter(provider: ContractProvider) {         const builder = new TupleBuilder();         const source = (await provider.get('counter', builder.build())).stack;         const result = source.readBigNumber();         return result;     } this void is problem with user wallet

@@ -11901,3 +11901,21 @@ Jolly: I thought this is an interaction with TON, okay, thx (reply to 148024)
 &rey: Anyone can create their own jetton with pretty much any display info and behavior. You should open tonviewer's main page, find true USDC and then enter your address to check if you have any. (reply to 147944)
 
 Russia: I want to connect ton wallet and pay on ton wallet on my website made with nextjs 15. I copied from my reactjs source and it runs normally but through nextjs it doesn't show popup to connect wallet and also shows error code. @pcrafter
+
+.6: I can do it. (reply to 148028)
+
+? NOT SANCHEZIO ?: there is no USDC on ton chain so most likely you got scammed 😔 (reply to 147944)
+
+Sam: hola! can someone explain why this happens inside telegram mini app sometimes when using ton connect ?  also - sometimes the app page is replaced by the ton keeper page for some reason  ton keeper app is installed (android)
+
+Sam: like this (reply to 148055)
+
+Skidrow: hello guys. hacker withdrawal my funds from MYTONwallet 4 hours ago
+
+Skidrow: my telegram account was hacked as well
+
+&rey: This group has nothing to do with it nor has any ability to help. (reply to 148062)
+
+Sam: this page is especially annoying because it breaks user interaction with the app - any ideas ? (reply to 148056)
+
+TON Bounty Bridge: ​Add support for wallet connection via QR code  🏷 Developer Tool  Summary:Implement a tool that enables users to connect their TON wallet by scanning a QR code, streamlining ...  Created by my9letters
