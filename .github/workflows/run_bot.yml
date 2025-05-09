@@ -3,7 +3,7 @@ name: Run TON Feeds Bot and Commit Data
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: '0 3 * * *' # Run daily at 3:00 AM UTC
+    - cron: '0 6 * * *' # Run daily at 6:00 AM UTC
 
 jobs:
   run-bot:
@@ -52,7 +52,7 @@ jobs:
       - name: Commit and push changes if any
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          git commit -m "Update data from TON Feeds Bot run"
+          git commit -m "Update data from Rust Feeds Bot run"
           git push origin HEAD:${{ github.ref }} # Push to the same branch the workflow ran on
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use built-in token 
