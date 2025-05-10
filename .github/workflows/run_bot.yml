@@ -1,5 +1,10 @@
 name: Run TON Feeds Bot and Commit Data
 
+on:
+  workflow_dispatch: # Allow manual trigger
+  schedule:
+    - cron: '0 6 * * *' # Run daily at 6:00 AM UTC
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
