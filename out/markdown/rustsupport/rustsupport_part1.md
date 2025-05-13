@@ -696,7 +696,7 @@ User<127796335>: ок..
 
 User<127796335>: Спасибо помогло. Буду знать теперь.
 
-George: Почему плагины не могу менять? выдает ошибку : Some or all identity references could not be translated.
+Egor: Почему плагины не могу менять? выдает ошибку : Some or all identity references could not be translated.
 
 Максим: Плагины где? Через панель и раздел Моды?
 
